@@ -1,4 +1,4 @@
-mgmt_ip: 10.64.10.9
+mgmt_ip: 10.64.10.88
 sdn_controller: 10.64.9.1
 VLANs:
     1:id:10
